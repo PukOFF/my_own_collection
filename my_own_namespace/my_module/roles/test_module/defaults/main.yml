@@ -1,0 +1,6 @@
+---
+# defaults file for roles/test_module
+path: "/home/alex/"
+file_name: "test.txt"
+content: "Test message"
+

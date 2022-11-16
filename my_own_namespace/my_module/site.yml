@@ -1,0 +1,7 @@
+---
+- hosts: ubuntu_server
+  tasks:
+    - name: Executi it
+      my_own_module:
+        path: "/home/alex/"
+        content: "Test"

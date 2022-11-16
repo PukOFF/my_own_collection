@@ -1,0 +1,5 @@
+---
+- name: Test module
+  hosts: ubuntu_server
+  roles:
+    - test_module
