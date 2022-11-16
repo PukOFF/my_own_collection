@@ -1,0 +1,5 @@
+---
+test_module:
+  hosts:
+    ubuntu_server:
+      ansible_host: 10.2.56.25
